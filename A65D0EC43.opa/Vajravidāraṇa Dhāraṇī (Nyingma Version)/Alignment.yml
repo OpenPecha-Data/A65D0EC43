@@ -1,0 +1,22 @@
+segment_sources:
+  P33A75A5A:
+    type: origin_type
+    relation: translation
+    language: en
+  PB0874122:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7bcf4d8084ba4bdab41468849b3d4fd9:
+    P33A75A5A: e1b8d8bc7a0e49fb87ab82d562458bc7
+    PB0874122: edb90ccb74b549ecbc8d7e1adf070f0b
+  5518ac3fae704bd489fe87ff86fd8c6f:
+    P33A75A5A: 7f799d3397064995bb07a43cdfd271d5
+    PB0874122: 9e606346cc1f409ea1a2c73f0225bf3c
+  fe12b42ffb064c7f8d47312d5014ad06:
+    P33A75A5A: 419f169d71b94fafb8a351709fb41a3d
+    PB0874122: 72b7a781b6b84fdfb17b38fd3a0d4889
+  8a6cb7038a2b44dba94cf2b051e68a56:
+    P33A75A5A: ee7c8b1196b7401a9e4243030ecd0216
+    PB0874122: 72ad577725ff44b3b4269a673c143922
